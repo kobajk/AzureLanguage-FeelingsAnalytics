@@ -8,8 +8,6 @@ Com este recurso, a Inteligência Artificial examina textos para determinar o se
 
 ![image](https://github.com/kobajk/AzureLanguage-FeelingsAnalytics/assets/50890222/ceb1a41e-c1d9-49e3-963f-f541ceb993ee)
 
-![image](https://github.com/kobajk/AzureLanguage-FeelingsAnalytics/assets/50890222/3752cba2-0cc7-48b2-adba-c7f33e59d347)
-
 ![image](https://github.com/kobajk/AzureLanguage-FeelingsAnalytics/assets/50890222/594e193f-edfe-4d66-9fed-b8ee5a964a80)
 
 
