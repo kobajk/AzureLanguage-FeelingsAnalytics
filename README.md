@@ -12,9 +12,11 @@ Com este recurso, a Inteligência Artificial examina textos para determinar o se
 
 ![image](https://github.com/kobajk/AzureLanguage-FeelingsAnalytics/assets/50890222/e63f3ec8-74e3-4a3e-8e1c-4d69d81b09f8)
 
-![image](https://github.com/kobajk/AzureLanguage-FeelingsAnalytics/assets/50890222/4046b368-bd9d-4d69-a665-e1e58f295bb8)
+![image](https://github.com/kobajk/AzureLanguage-FeelingsAnalytics/assets/50890222/379ca0d4-7c23-40ad-a965-4a701ccea1f7)
 
-![image](https://github.com/kobajk/AzureLanguage-FeelingsAnalytics/assets/50890222/487aea37-4307-4083-9049-ec2b160a58e2)
+
+![Uploading image.png…]()
+
 
 #### Considerações Finais
 
